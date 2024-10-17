@@ -1,6 +1,6 @@
 # DpM | Disenado por Mujeres
 
-### [Descarga el ToolkitDpM](https://hechopormujeres.github.io/disenadopormujeres/ToolkitDpM.pdf)
+### <a href="https://hechopormujeres.github.io/disenadopormujeres/ToolkitDpM.pdf" download>Descarga el ToolkitDpM</a>
 
 DpM ha sido concebida como la propuesta de un modelo instrumental que se distancia del androcentrismo e incorpora una perspectiva no sexista en el propio proceso investigativo, desafiando los cánones modernos y objetivistas para la construcción de una historia de las pioneras del diseño.
 
